@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Página-1" id="4ZwvtEbwPWjgC1fLKRK7">
+    <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="840" height="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="840" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-5" value="IGOR ESTEVAM GONÇALVES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="200" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="200" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-8" value="FORMAÇÕES" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-9" value="CONTATO" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-11" value="SOBRE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="205" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-13" value="PROJETOS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="290" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="420" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;SOBRE IGOR ESTEVAM&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;/font&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="230" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-20" value="IMAGEM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-21" value="FOTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="790" width="420" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-23" value="IMAGEM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-24" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 19px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PROJETOS&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 60%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="790" width="230" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1270" width="420" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-29" value="IMAGEM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;FORMAÇÕES&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1270" width="230" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1750" width="840" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-33" value="CONTATO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="1760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-34" value="INSTAGRAM:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1761" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-35" value="EMAIL:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q8NPyCuLfAXdYxH3WJI-36" value="TELEFONE:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1760" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
