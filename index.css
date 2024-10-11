@@ -1,5 +1,5 @@
 html {
-    background-color: rgb(255, 243, 223);
+    background-color:white;
 }
 
 body {
@@ -33,19 +33,6 @@ header img {
 header h2 {
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
-}
-
-
-
-#carouselExample {
-    display: block;
-    height: 400px;
-    width: 1500px;
-}
-
-#carouselExample img {
-    height: 400px;
-    width: 1500px;
 }
 
 nav {
@@ -196,12 +183,12 @@ nav ul li a:hover {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     justify-content: center;
-    height: 80px;
+    height: 60px;
     display: flex;
     align-items: center;
     position: fixed;
     bottom: 0;
-    width: 1500px;
+    width: 1460px;
 }
 
 #contatos ul {
@@ -213,15 +200,14 @@ nav ul li a:hover {
 }
 
 #contatos ul li {
-    justify-content: space-evenly;
+    justify-content: center;
     list-style: none;
     display: flex;
     align-items: center;
 }
 
 #contatos ul li :hover {
-    border-radius: 15px;
-    height: 70px;
+    margin-top: -5px;
 }
 
 #contatos ul li img {
@@ -230,6 +216,5 @@ nav ul li a:hover {
     display: flex;
     align-items: center;
     height: 60px;
-    margin-top: 20px;
-    
+    border-radius: 15px;
 }
